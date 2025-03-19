@@ -35,6 +35,7 @@ financial-trend-prediction/
 │   └── main.py                  # Main script to run pipeline
 ├── visualizations/              # Generated plots
 ├── .gitignore                   # Git ignore file
+├── LICENSE                      # MIT License
 ├── requirements.txt             # Project dependencies
 └── README.md                    # Project documentation
 ```
@@ -43,7 +44,7 @@ financial-trend-prediction/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/financial-trend-prediction.git
+git clone https://github.com/quantnexusai/financial-trend-prediction.git
 cd financial-trend-prediction
 ```
 
@@ -161,7 +162,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Ari Harrison - ari@quantnexus.ai
+
+Project Link: https://github.com/quantnexusai/financial-trend-prediction
 
 ## Disclaimer
 
