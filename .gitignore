@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Cached Python files
+__pycache__/
+*.py[cod]
+
+# Data files (optional if you want to exclude large data)
+data/*.csv
+
+# Model files (optional)
+models/*.pkl
